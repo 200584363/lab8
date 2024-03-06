@@ -35,7 +35,6 @@
 <?php
 	include('includes/footer-nav.php');
 ?>
-			<p><small>© HTML, CSS, and JS Blocks Inc.</small></p>
 		</footer>
 	</body>
 </html>
